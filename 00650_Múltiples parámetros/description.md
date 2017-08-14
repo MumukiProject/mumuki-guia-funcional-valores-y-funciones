@@ -14,7 +14,7 @@ perimetroRectangulo 10 2
 
 devuelve `24`.
 
-> ¿Te imaginás cómo se puede escribir una función que calcule el area de un rectangulo? ¡Escribila!
+> ¿Te imaginás cómo se puede escribir una función que calcule el área de un rectángulo? ¡Escribila!
 
 
 
