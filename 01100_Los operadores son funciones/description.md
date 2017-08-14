@@ -1,6 +1,6 @@
 Pasajeros, ¡ajústense los cinturones porque tiraremos una bomba! :bomb:
 
-¿Preparado? ¿Listo? Ahí va: los operadores que vimos antes, como la suma (`+`), resta (`-`), multiplicación (`*`), ¡son funciones!. :boom:
+¿Preparado? ¿Listo? Ahí va: los operadores que vimos antes, como la suma (`+`), resta (`-`), multiplicación (`*`), ¡son funciones! :boom:
 
 Solo que son un poco especiales, porque sus nombres no son una palabra (como lo es `siguiente`), sino un "chirimbolo".
 
