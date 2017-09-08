@@ -6,3 +6,5 @@ expectations:
   inspection: Uses:=*
 - binding: cuadrado
   inspection: HasBinding
+- binding: "*"
+  inspection: Except:HasRedundantParameter
