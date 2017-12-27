@@ -1,1 +1,1 @@
-¿No sabés como llamar a las variables? ¡Inspirate en el ultimo ejemplo!
+¿No sabés como llamar a las variables? ¡Inspirate en el último ejemplo!
