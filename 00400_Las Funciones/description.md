@@ -8,7 +8,7 @@ Por ejemplo, una función muy simple es la que calcula el _siguiente_ de un núm
 
 ![blackbox_succ.png](https://raw.githubusercontent.com/pdep-utn/mumuki-funcional-guia-0/master/images/blackbox_succ.png)
 
-A una función podemos ponerle a su entrada un valor, lo que se conoce como **aplicar la función**, y al hacerlo obtenemos un salida correspondiente. Veamos ejemplos: si a esta función `siguiente`la aplicamos con:
+A una función podemos ponerle a su entrada un valor, lo que se conoce como **aplicar la función**, y al hacerlo obtenemos una salida correspondiente. Veamos ejemplos: si a esta función `siguiente` la aplicamos con:
 
 * el número 1, obtendremos a su salida el numero 2
 * el número 10, obtendremos a su salida el numero 11
@@ -20,4 +20,4 @@ A una función podemos ponerle a su entrada un valor, lo que se conoce como **ap
 siguiente numero = numero + 1
 ```
 
-> ¿Te imaginás como se escribirá una función que calcule el anterior, es decir, el número de la entrada, menos 1? ¡Escribilo!
+> ¿Te imaginás cómo se escribirá una función que calcule el anterior, es decir, el número de la entrada, menos 1? ¡Escribilo!
