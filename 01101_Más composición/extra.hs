@@ -1,1 +1,1 @@
-siguiente = (+1)
+siguiente numero = numero + 1
