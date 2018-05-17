@@ -6,3 +6,5 @@ expectations:
   inspection: HasUsage:doble
 - binding: dobleDelCuadrado
   inspection: HasUsage:cuadrado
+- binding: "*"
+  inspection: Except:HasRedundantParameter
