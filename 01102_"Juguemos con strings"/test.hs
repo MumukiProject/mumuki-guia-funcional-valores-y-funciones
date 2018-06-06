@@ -1,5 +1,3 @@
-let cuantoMidenJuntos unString otroString = length (unString ++ otroString)
-
 describe "cuantoMidenJuntos" $ do
   it "da 8 con \"hola\" y \"chau\"" $ do
     cuantoMidenJuntos "hola" "chau" `shouldBe` 8
