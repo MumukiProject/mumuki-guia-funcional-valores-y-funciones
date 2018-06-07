@@ -1,4 +1,4 @@
-Vamos a ver algunas funciones para trabajar con strings:
+¡Haskell no vive sólo de números :wink:! Para cerrar, vamos a ver algunas funciones para trabajar con strings:
 
 * `length` nos dice el largo de un string;
 * `head` nos devuelve el primer caracter de un string;
