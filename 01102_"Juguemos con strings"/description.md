@@ -16,4 +16,10 @@ Veamos ejemplos de todas ellas:
 ム "guarda" ++ "polvos"
 "guardapolvos"
 ```
-> Hace una función `cuantoMidenJuntos` que me diga cuanto miden dos strings concatenados.
+
+> Hacé una función `cuantoMidenJuntos` que te diga cuánto miden dos strings concatenados. Por ejemplo: 
+> 
+> ```haskell
+> ム cuantoMidenJuntos "tres" "empanadas"
+> 13
+> ```
