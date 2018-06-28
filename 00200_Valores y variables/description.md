@@ -1,4 +1,6 @@
-En un programa podemos darle valores a múltiples variables, por ejemplo:
+En haskell podemos darle valores a múltiples variables.
+
+Por ejemplo, para escribir un programa en el cual definimos la edad de Analia y la de Maria, lo hacemos de la siguiente forma:
 
 ```haskell
 edadAnalia = 12
