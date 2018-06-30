@@ -16,10 +16,15 @@ se puede pensar así:
 Lo cual escribimos de esta forma:
 
 ```haskell
-dobleDelSiguiente numero = doble (siguiente numero)
+ム dobleDelSiguiente numero = doble (siguiente numero)
 ```
 
 > ¿Te imaginás como será definir una función que calcule el doble del cuadrado? ¡Escribila!
+>
+>```haskell
+>ム dobleDelCuadrado 3
+>18 --Porque 3 * 3 es 9, y el doble de 9 es 18
+>```
 >
 > **Nota**: asumí que ya declaramos las funciones `doble` y `cuadrado`.
 
