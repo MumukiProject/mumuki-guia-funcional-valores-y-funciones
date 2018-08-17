@@ -1,14 +1,9 @@
 ---
-tags:
-- funcional
-- basico
-- numeros
-- valores
-- variables
+tags: []
 layout: input_right
 editor: code
 type: problem
 extra_visible: false
 manual_evaluation: false
 choices: []
-name: Valores y variables
+name: '"Juguemos con strings"'
