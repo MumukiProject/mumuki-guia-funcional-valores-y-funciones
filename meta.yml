@@ -7,6 +7,7 @@ teacher_info: ''
 language: haskell
 id_format: "%05d"
 order:
+- 1103
 - 100
 - 200
 - 300
@@ -20,4 +21,3 @@ order:
 - 1101
 - 1100
 - 1102
-- 1103
