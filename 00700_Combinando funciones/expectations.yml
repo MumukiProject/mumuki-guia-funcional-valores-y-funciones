@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: dobleDelCuadrado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: dobleDelCuadrado
   inspection: HasBinding
-- binding: dobleDelCuadrado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: dobleDelCuadrado
   inspection: HasUsage:doble
-- binding: dobleDelCuadrado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: dobleDelCuadrado
   inspection: HasUsage:cuadrado
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Except:HasRedundantParameter
