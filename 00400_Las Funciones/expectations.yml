@@ -5,4 +5,4 @@ expectations:
   inspection: HasBinding
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: anterior
-  inspection: HasUsage:-
+  inspection: Uses:-

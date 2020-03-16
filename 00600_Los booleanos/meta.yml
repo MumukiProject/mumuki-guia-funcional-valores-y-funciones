@@ -1,10 +1,6 @@
 ---
-tags:
-- funcional
-- basico
-- numeros
-- funciones
-- booleanos
+locale: es
+tags: []
 layout: input_right
 editor: code
 type: problem

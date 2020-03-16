@@ -1,10 +1,6 @@
 ---
-tags:
-- funcional
-- basico
-- numeros
-- valores
-- variables
+locale: es
+tags: []
 layout: input_right
 editor: code
 type: problem
