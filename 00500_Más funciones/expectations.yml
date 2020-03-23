@@ -5,7 +5,7 @@ expectations:
   inspection: HasBinding
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: doble
-  inspection: Uses:=*
+  inspection: Uses:*
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: cuadrado
   inspection: HasBinding
